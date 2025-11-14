@@ -66,7 +66,7 @@ Performs matrix multiplication with complex support.
 Prints the final result in matrix form.
 
 ## 🧩 Example Run
---- Enter Matrix 1 ---
+--- Enter Matrix 1 --- <br>
 Enter number of rows: 2
 Enter number of columns: 2
 Enter elements (normal or complex). Example: 5 or 3+4j or 2-6j
@@ -155,10 +155,10 @@ This project is open-source and free to use.
 
 If you like this program, feel free to:
 
-## 🌟 Star the repository
+🌟 Star the repository
 
-## 🤝 Contribute improvements
+🤝 Contribute improvements
 
-## 🗣 Share it with others
+🗣 Share it with others
 
 # 💙 Made with passion by Saad Shaikh
