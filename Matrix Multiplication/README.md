@@ -67,22 +67,22 @@ Prints the final result in matrix form.
 
 ## 🧩 Example Run
 --- Enter Matrix 1 --- <br>
-Enter number of rows: 2
-Enter number of columns: 2
-Enter elements (normal or complex). Example: 5 or 3+4j or 2-6j
-Enter element at (1, 1): 2
-Enter element at (1, 2): 1+2j
-Enter element at (2, 1): 3
-Enter element at (2, 2): 4
+Enter number of rows: 2 <br>
+Enter number of columns: 2 <br>
+Enter elements (normal or complex). Example: 5 or 3+4j or 2-6j <br>
+Enter element at (1, 1): 2 <br>
+Enter element at (1, 2): 1+2j <br>
+Enter element at (2, 1): 3 <br>
+Enter element at (2, 2): 4 <br>
 
---- Enter Matrix 2 ---
-Enter number of rows: 2
-Enter number of columns: 1
-Enter element at (1, 1): 3
-Enter element at (2, 1): 4+5j
+--- Enter Matrix 2 ---<br>
+Enter number of rows: 2 <br>
+Enter number of columns: 1 <br>
+Enter element at (1, 1): 3 <br>
+Enter element at (2, 1): 4+5j <br>
 
---- Resultant Matrix ---
-[(2*3 + (1+2j)*(4+5j))]
+--- Resultant Matrix --- <br>
+[(2*3 + (1+2j)*(4+5j))] <br>
 
 
 Output appears in Python list matrix form.
