@@ -1,13 +1,13 @@
-###### 🚗⛽ Vehicle & Fuel Calculator
+# 🚗⛽ Vehicle & Fuel Calculator
 
 A simple and user-friendly Python program that helps you calculate petrol usage, cost, and travel distance based on your vehicle mileage.
 This tool is perfect for new vehicle owners who want to track fuel efficiency and plan trips smartly.
 
-🌟 Features
+## 🌟 Features
 
 This calculator offers 4 useful fuel-related operations:
 
-1️⃣ Petrol you get from money
+### 1️⃣ Petrol you get from money
 
 Enter petrol price per litre
 
@@ -15,7 +15,7 @@ Enter money you have
 
 The program tells you how many litres you will get
 
-2️⃣ Money required for litres
+### 2️⃣ Money required for litres
 
 Enter petrol price per litre
 
@@ -23,25 +23,25 @@ Enter litres you want
 
 The program calculates the total cost
 
-3️⃣ Distance possible with given litres
+### 3️⃣ Distance possible with given litres
 
 Enter how many litres you currently have
 
 Program shows how far (in km) your vehicle can go
 
-4️⃣ Litres needed for a distance
+### 4️⃣ Litres needed for a distance
 
 Enter the distance you want to travel
 
 Program calculates how many litres you will need
 
-🧮 How the Program Works
+## 🧮 How the Program Works
 
 The program asks for your vehicle mileage first (km per litre).
 Then it shows a menu with four options.
 Based on the option you choose, it asks for more input and performs the correct calculation.
 
-📌 Code Snippet
+## 📌 Code Snippet
 # Vehicle & Fuel Calculator
 
 print("------ Vehicle Fuel Calculator ------")
@@ -85,7 +85,7 @@ elif choice == 4:
 else:
     print("Invalid choice! Please select 1–4.")
 
-🚀 How to Run the Program
+## 🚀 How to Run the Program
 
 Install Python (if not installed)
 
@@ -100,7 +100,7 @@ Run the script:
 
 python vehicle_fuel_calculator.py
 
-📌 Use Cases
+## 📌 Use Cases
 
 Calculate how much petrol you can buy before a long ride
 
@@ -110,6 +110,6 @@ Plan trips based on your mileage
 
 Understand your vehicle’s fuel efficiency
 
-❤️ Developer
+## ❤️ Developer
 
-This project was created by Saad Shaikh, who loves making helpful tools & learning Python.
+This project was created by Saad Shaikh.
