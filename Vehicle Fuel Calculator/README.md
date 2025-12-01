@@ -1,4 +1,4 @@
-🚗⛽ Vehicle & Fuel Calculator
+###### 🚗⛽ Vehicle & Fuel Calculator
 
 A simple and user-friendly Python program that helps you calculate petrol usage, cost, and travel distance based on your vehicle mileage.
 This tool is perfect for new vehicle owners who want to track fuel efficiency and plan trips smartly.
