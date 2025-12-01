@@ -42,14 +42,14 @@ Then it shows a menu with four options.
 Based on the option you choose, it asks for more input and performs the correct calculation.
 
 ## 📌 Code Snippet
-# Vehicle & Fuel Calculator
+### Vehicle & Fuel Calculator
 
 print("------ Vehicle Fuel Calculator ------")
 
-# Take mileage (average)
+#Take mileage (average)
 mileage = float(input("Enter vehicle mileage (km per litre): "))
 
-# Menu
+#Menu
 print("""
 Choose an option:
 1. Calculate petrol you get from money
