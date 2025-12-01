@@ -1,4 +1,4 @@
-🚀 Matrix Multiplication Program (Normal + Complex Numbers)
+# 🚀 Matrix Multiplication Program (Normal + Complex Numbers)
 
 A simple yet powerful Python-based Matrix Multiplication Tool that supports:
 
@@ -8,7 +8,7 @@ A simple yet powerful Python-based Matrix Multiplication Tool that supports:
 
 This program allows users to input the matrix size, enter values (including complex numbers like 3+4j, 2-7j), and generates the final product matrix.
 
-✨ Features
+## ✨ Features
 
 🔢 Supports any size matrices
 
@@ -24,7 +24,7 @@ This program allows users to input the matrix size, enter values (including comp
 
 ❤️ Created with love by Saad Shaikh
 
-📌 How It Works
+## 📌 How It Works
 
 Enter rows & columns for Matrix 1
 
@@ -38,7 +38,7 @@ The program validates dimensions
 
 Final multiplied matrix is displayed
 
-🧠 Supported Inputs
+## 🧠 Supported Inputs
 
 You can enter values in formats like:
 
@@ -51,7 +51,7 @@ You can enter values in formats like:
 
 Python automatically converts them into complex numbers.
 
-📂 Code Overview
+## 📂 Code Overview
 Core Functions
 🔹 input_matrix(num)
 
@@ -65,29 +65,29 @@ Performs matrix multiplication with complex support.
 
 Prints the final result in matrix form.
 
-🧩 Example Run
---- Enter Matrix 1 ---
-Enter number of rows: 2
-Enter number of columns: 2
-Enter elements (normal or complex). Example: 5 or 3+4j or 2-6j
-Enter element at (1, 1): 2
-Enter element at (1, 2): 1+2j
-Enter element at (2, 1): 3
-Enter element at (2, 2): 4
+## 🧩 Example Run
+--- Enter Matrix 1 --- <br>
+Enter number of rows: 2 <br>
+Enter number of columns: 2 <br>
+Enter elements (normal or complex). Example: 5 or 3+4j or 2-6j <br>
+Enter element at (1, 1): 2 <br>
+Enter element at (1, 2): 1+2j <br>
+Enter element at (2, 1): 3 <br>
+Enter element at (2, 2): 4 <br>
 
---- Enter Matrix 2 ---
-Enter number of rows: 2
-Enter number of columns: 1
-Enter element at (1, 1): 3
-Enter element at (2, 1): 4+5j
+--- Enter Matrix 2 ---<br>
+Enter number of rows: 2 <br>
+Enter number of columns: 1 <br>
+Enter element at (1, 1): 3 <br>
+Enter element at (2, 1): 4+5j <br>
 
---- Resultant Matrix ---
-[(2*3 + (1+2j)*(4+5j))]
+--- Resultant Matrix --- <br>
+[(2*3 + (1+2j)*(4+5j))] <br>
 
 
 Output appears in Python list matrix form.
 
-📜 Full Code
+## 📜 Full Code
 def input_matrix(num):
     print(f"\n--- Enter Matrix {num} ---")
     rows = int(input("Enter number of rows: "))
@@ -138,20 +138,20 @@ display_matrix(result)
 
 print("------- Made with ❤️  by Saad Shaikh -------")
 
-🧪 Requirements
+## 🧪 Requirements
 
 Python 3.x
 
 No external libraries required
 
-▶️ Run the Program
+## ▶️ Run the Program
 python matrix_multiply.py
 
-📄 License
+## 📄 License
 
 This project is open-source and free to use.
 
-⭐ Support the Project
+## ⭐ Support the Project
 
 If you like this program, feel free to:
 
@@ -161,4 +161,4 @@ If you like this program, feel free to:
 
 🗣 Share it with others
 
-💙 Made with passion by Saad Shaikh
+# 💙 Made with passion by Saad Shaikh
